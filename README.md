@@ -10,5 +10,6 @@ Nostalgic number guessing game - built with vanilla JS
 
 ## Share with your friends!!!
 
-[Screenshot 2023-02-01 160834](https://user-images.githubusercontent.com/114027684/216163696-97eab8ed-6ad8-41c3-8085-1106aa39a064.png)
+
+![Screenshot 2023-02-01 160834](https://user-images.githubusercontent.com/114027684/216163991-aa87dba6-05ae-43ae-9681-982f5b7bef86.png)
 
